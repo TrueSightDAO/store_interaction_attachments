@@ -2,7 +2,7 @@
 %“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
 >>
 endobj
 2 0 obj
@@ -17,7 +17,12 @@ endobj
 endobj
 4 0 obj
 <<
-/Contents 8 0 R /MediaBox [ 0 0 612 792 ] /Parent 7 0 R /Resources <<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/Contents 9 0 R /MediaBox [ 0 0 612 792 ] /Parent 8 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -25,50 +30,51 @@ endobj
   /Type /Page
 >>
 endobj
-5 0 obj
-<<
-/PageMode /UseNone /Pages 7 0 R /Type /Catalog
->>
-endobj
 6 0 obj
 <<
-/Author (TrueSight DAO Autopilot) /CreationDate (D:20260606200517+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260606200517+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (Invoice \204 Green Gulch Zen Monastery) /Trapped /False
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/Count 1 /Kids [ 4 0 R ] /Type /Pages
+/Author (TrueSight DAO Autopilot) /CreationDate (D:20260606200739+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260606200739+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Invoice \204 Green Gulch Zen Monastery) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 829
+/Count 1 /Kids [ 5 0 R ] /Type /Pages
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 880
 >>
 stream
-Gau0B>AqtE'RoMS3,![&d+ZH6RU2TL<2bNgC_1iYqVhZ;2,!>^EJfYEj#KlHNKM<L,)Bg^EU<:F51^G:Y`WsbQN61\S@p.4-q&,!5rX>X"2'UspFW]*fcNI=Upq;o]Q-^o/NcKD-/k7<8teKS<XP[(7f,NTQ&,5B6pDf?D.R$`HS-*rb5HZEoNZ)%&^;gdDpcR]<bnio%VH@;S:;-m_SB^[ab_,+mSsGCMLC)%hu`9P1ON.o/JV?9D8Z6UEX5HlH8K_1dbs5K4&s-p(&-_J[uSH"Y]ZgA-Su-F[+uZ2%a[+ZY3eu^j$N#?]fMt'du3MYH7mV[+uODXon&N;@B)>S0[8'k!B3!M<0CgIl\uS"%pt>R2F`_bP,CW%3)>fCc37"Y4)mdnUEmrDaa%LTAFj/J=6[Y_:hQN<*U&KQ+W(?)87;Tp(2sB[9R%=gYqeX;I(M9U*5>*Si(D`H.:Bef\MR,B=To6k>i8V!IsQta%\n("4eq"Vil(R%8TL*n'>317SoDe/1LeTPAhd4,`GGgcp.Fqa:jE8Sbb/1d..'BX01e&`_1Np)@m[buB.%+i:7NS$"*Z/4]p@`\*TpUI[*0Wad*XG[;\1]Z]3m<B[q,#]A_Z+IotC<GrScVg8h.BZ5j>n^qN-$WOYSJA8^8jN[Xbsfa*sX)]BX8]gHf++p;;BPNr?17f);7-3kf'mV7#68b`'hW)hXP72uEL<?.C9'.;)c)Qg>31B>O%X%P+tr[j_QW.b_X?LnC'M,JJ+0WNCXA5?'jN>Q&6!l5)%>]Ru3d@BR!9eWAmnQ."f[P<ksqaRmJ%E>t7"rh"enDr_O5XT~>endstream
+Gatm:_/e6`&A@ZMgIVm^;\Me^2Y^6L;C7s38QrTY9J40o[MpG'=f+QAO0<@$/Qc"hVJ$Bs[,._TG-tKV[Ml+@Nog?)+e3sGJ1uX45]4o%n.T&[SYlsD[e'g_%C%ZhF*9Dgif8<om6%@lk/n&91ap%F>l*YjIf=eEq>TA2KKgT,;u4.,A)FJ9Pi'A]cShKU*L^:$H%S#4"^b/i;`KD+'_H/Z-PFFoCEpRjbc;5XEVfuQ],/GE/U8733!h(dQ$S]e(DLEggXrj_YU1#.1j7V@O,9ZTe;jd.i4XgWfa*EsNS=?iTRkg1?Z!ul9M#,UX[DZ==eq,EH(&:Uo"YO_GM?&`#YGt.MC_BX:AqfaN9$.ZPnD..g*;TQA-#r_/7et01X>0iP\(Fq*-=SFicl4T1md\%frq?p7;PH?Kuc+noV7Sc*On-Uc[.,@;(_h"n=9F2,jCoM:.*iL9_1fN$^l%d_"q*7)H_DtWIu4al9GI3d@;"Hed[V=\OU2G3`*)cK!farfdp*<_>_TKEF@Xd@il@>U_NVkA'1_m10me6845GAFII-5EjhFlG8Gi`;dSN=,r/*\?Ye`qe8pLDcaG]7T6d)4BW3k8nJ]ad_g5cj''k?BKb0Kj%5563fS>\[=V%;X7(JV^.KUnpruXoT]00/,GXSN9_ep<>qaV[kbrB5ME_/#'(Rk4r-\[W99B#-(&#\<\q.Nh1SP>Sn3/a8Zinul1+ffmV7@,QlU56s\Q5f9^PpGaLEg'@p3iP,b<(WY-Vh2d;XN35n+F-eIs"6lmWZ*djM.n>^W7)[rrkI=BfBJ86FU?>W;OA$h#V05sN/R7.5fB'a=[=,P0,=pJj=B7sS/:k%pN[Dr<]`>A:?\]o1i7B/o,FAoZ"X~>endstream
 endobj
 xref
-0 9
+0 10
 0000000000 65535 f 
 0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000514 00000 n 
-0000000582 00000 n 
-0000000897 00000 n 
-0000000956 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000446 00000 n 
+0000000639 00000 n 
+0000000707 00000 n 
+0000001022 00000 n 
+0000001081 00000 n 
 trailer
 <<
 /ID 
-[<89f90b0c09399f5f04eebfcb69375305><89f90b0c09399f5f04eebfcb69375305>]
+[<51e59f2f311fff2ce7fc329df12cf7a0><51e59f2f311fff2ce7fc329df12cf7a0>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 6 0 R
-/Root 5 0 R
-/Size 9
+/Info 7 0 R
+/Root 6 0 R
+/Size 10
 >>
 startxref
-1875
+2051
 %%EOF
